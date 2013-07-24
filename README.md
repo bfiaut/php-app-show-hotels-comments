@@ -1,4 +1,4 @@
-PHP-APP-FINAL for Fidbacks interview
+PHP-APP
 
 This app is working with both [CodeIgniter 2](http://ellislab.com/codeigniter) and [Doctrine 2](http://www.doctrine-project.org/).
 
